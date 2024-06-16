@@ -23,7 +23,7 @@
 | Name                           | ID             | Path                | Github                                             |
 |--------------------------------|----------------|---------------------|----------------------------------------------------|
 | Muhammad Dzaka Murran Rusid    | A131D4KY3870   | Mobile Development  | [dzkmrn](https://github.com/dzkmrn)                |
-| Mohammad Izamul Fikri Fahmi    | A131D4KY4095   | Mobile Development  | [zenosance](https://github.com/zenosance/)         |
+| Mohammad Izamul Fikri Fahmi    | A131D4KY4095   | Mobile Development  | [zenosance](https://github.com/izamul/)         |
 | Sabila Nadia Islamia           | M131D4KX2831   | Machine Learning    | [SabilaNadia02](https://github.com/SabilaNadia02/) |
 | Marchel Yusuf Rumlawang Arpipi | M325D4KY2838   | Machine Learning    | [ysfrum](https://github.com/ysfrum)                |
 | Mareta Aliana                  | M189D4KX2275   | Machine Learning    | [Maretaaliana](https://github.com/Maretaaliana)    |
