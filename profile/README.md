@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://drive.google.com/file/d/1UDJ_BWHWYnFzFTDdzqQpTHYvNoDY0AHL/view?usp=sharing" alt="fachta" />
+  <img src="https://drive.google.com/uc?export=download&id=1UDJ_BWHWYnFzFTDdzqQpTHYvNoDY0AHL" alt="fachta" />
   <h2>Solution Ahead for Maintaining Information Integrity and Filtering of Hoax</h2>
   <h3>Bangkit 2024 Capstone Team: C241-PS025</h3>
 </div>
